@@ -13,6 +13,7 @@
     <session id="1671522399">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -35,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/harrymanchanda/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
-              <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
               <folding>
                 <element signature="method#main#0;class#Main#0" expanded="true" />
               </folding>
@@ -63,6 +64,7 @@
     <option name="width" value="2048" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -106,7 +108,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543221216977" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543221217579" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -148,16 +150,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543211919650</updated>
-      <workItem from="1543211924334" duration="2802000" />
+      <workItem from="1543211924334" duration="2914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2802000" />
+    <option name="totallyTimeSpent" value="2914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="top" id="Terminal" order="0" sideWeight="0.5483549" visible="true" weight="0.2379936" />
       <window_info anchor="top" id="Event Log" order="1" sideWeight="0.38683948" side_tool="true" weight="0.25720385" />
@@ -179,7 +180,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32977587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info active="true" anchor="right" id="Run" order="1" sideWeight="0.6131605" visible="true" weight="0.43968096" />
+      <window_info anchor="right" id="Run" order="1" sideWeight="0.6131605" weight="0.43968096" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.24975075" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -200,7 +201,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/harrymanchanda/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
           <folding>
             <element signature="method#main#0;class#Main#0" expanded="true" />
           </folding>
