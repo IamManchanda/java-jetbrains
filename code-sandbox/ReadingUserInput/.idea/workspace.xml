@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4948a8ce-64bc-4050-b9c7-a3bfeecbd5fb" name="Default Changelist" comment="" />
+    <list default="true" id="f6398830-6dae-4948-ad3d-b368a459173a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhileLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WhileLoop/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="982481925">
+    <session id="1745275816">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -25,13 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/harrymanchanda/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="method#main#0;class#Main#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -52,24 +50,27 @@
     <option name="width" value="2048" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543515830605" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543739587949" />
     <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,7 +87,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.harrymanchanda.Main" />
-      <module name="ForLoop" />
+      <module name="untitled104" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -102,25 +103,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4948a8ce-64bc-4050-b9c7-a3bfeecbd5fb" name="Default Changelist" comment="" />
-      <created>1543495606556</created>
+      <changelist id="f6398830-6dae-4948-ad3d-b368a459173a" name="Default Changelist" comment="" />
+      <created>1543733453733</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543495606556</updated>
-      <workItem from="1543495609943" duration="1499000" />
+      <updated>1543733453733</updated>
+      <workItem from="1543733497402" duration="33000" />
+      <workItem from="1543733582450" duration="1833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1499000" />
+    <option name="totallyTimeSpent" value="1866000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2048" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="2048" height="1050" extended-state="6" />
     <layout>
-      <window_info anchor="top" id="Terminal" order="0" sideWeight="0.54885346" weight="0.2379936" />
-      <window_info anchor="top" id="Event Log" order="1" sideWeight="0.38584247" side_tool="true" visible="true" weight="0.25720385" />
-      <window_info anchor="top" id="Run" order="2" sideWeight="0.6141575" weight="0.42369264" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17397806" />
+      <window_info anchor="top" id="Terminal" order="0" sideWeight="0.54785645" weight="0.2379936" />
+      <window_info anchor="top" id="Event Log" order="1" sideWeight="0.38634098" side_tool="true" weight="0.25720385" />
+      <window_info active="true" anchor="top" id="Run" order="2" sideWeight="0.613659" visible="true" weight="0.25720385" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17547359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -157,13 +159,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/harrymanchanda/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="396">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -219,7 +216,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ForLoop</last-edited>
+          <last-edited>untitled104</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
